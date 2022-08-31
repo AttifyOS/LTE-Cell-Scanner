@@ -1,2 +1,10 @@
 # LTE-Cell-Scanner
-LTE-Cell-Scanner packaged for AttifyOS
+LTE-Cell-Scanner packaged for AttifyOS.
+
+This package provides the following commands:
+- CellSearch
+- LTE-Tracker
+
+## Build instructions
+
+On a alpine container run `src/build.sh`.
